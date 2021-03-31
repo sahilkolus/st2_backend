@@ -1,0 +1,30 @@
+<style>
+    #old table{
+	margin-top: 100px;
+	text-align: center;
+	color: #fff;
+    width:50%;
+}
+#new th, #new td{
+	padding: 10px;
+}
+#button td input {
+	width: 100%;
+	background-color: orange;
+}
+#button:hover td input {
+	background-color: #aaa;
+}
+#line
+{
+text-align:center;
+}
+#page
+{
+background-color:#b6b6f0;
+}
+hr
+{
+    width:400px;
+	background-color: black;
+}
